@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+#about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Setareh.
   I am a dedicated researcher with a Ph.D. in Mathematics (Analysis) from Imam Khomeini International University, Iran. My academic journey also includes a Master’s in Mathematics (Topology) and a Bachelor’s in Mathematics from Shahid Chamran University, Iran. I have a strong interest in fields such as Complex Analysis, Operator Theory, and Functional Analysis.  I have contributed to several publications and have been involved in various seminars and conferences. I have teaching experience at multiple universities in Iran and have also been a guest Ph.D. student at Umeå University, Sweden.
